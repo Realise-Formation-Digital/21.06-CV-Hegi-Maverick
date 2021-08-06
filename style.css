@@ -131,7 +131,7 @@ body {
 }
 
 .partie4{
-    background-color: rgb(77, 69, 173);
+    background-color: rgb(11, 11, 17);
     display: flex;
     height: 200%;
     font-family: Georgia, 'Times New Roman', Times, serif;
@@ -152,7 +152,7 @@ body {
     height: 100%;
     top: 0;
     left: 0;
-    opacity: 0.7;
+    opacity: 0.9;
     display: flex;
 }
 
@@ -164,7 +164,7 @@ body {
 
 
 .firstChildBackgroundColor {
-    background: rgb(34, 33, 33);
+    background: rgb(56, 52, 52);
 }
 
 .firstColumnBackgroundColor {
