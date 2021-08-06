@@ -219,6 +219,14 @@ body {
       width: 25%;
   }
 
+
+  @media  screen  (max-width: 600px) {
+    .text {
+        
+     
+    }
+  }
+
  /* .cv{
     width: 15%;
     padding-right: 10%;
